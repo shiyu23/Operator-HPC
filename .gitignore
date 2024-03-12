@@ -1,0 +1,12 @@
+.DS_Store
+
+__pycache__
+*.log
+.idea/
+.idea/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+build/
+build/*
+*.swp
+*.so
